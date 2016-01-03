@@ -1,5 +1,4 @@
 # DHT
-# DHT
 Modified version of Rob Tillaart's DHT22 Temperature and Humidity sensor Arduino library, with a new example Arduino Sketch.
 Public Domain.
 
